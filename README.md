@@ -1,5 +1,5 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-ANYWAY-MD-V1 
+ 
 <p align="center">
   <marquee behavior="scroll" direction="right">
     <h1 style="color:blue;">ANYWAY MD</h1>
