@@ -1,9 +1,11 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="center">
-  <h1 style="color:blue;">ANYWAY MD</h1>
-  <h2 style="color:blue;">BEST WHATSAPP BOT</h2>
-  <h3 style="color:blue;">CREDIT BY MR ANYWAY TECH</h3>
+  <marquee behavior="scroll" direction="right">
+    <h1 style="color:blue;">ANYWAY MD</h1>
+    <h2 style="color:blue;">BEST WHATSAPP BOT</h2>
+    <h3 style="color:blue;">CREDIT BY MR ANYWAY TECH</h3>
+  </marquee>
 </p>
 
 <p align="center"> 
